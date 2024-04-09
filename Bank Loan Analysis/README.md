@@ -1,4 +1,3 @@
-
 # Bank Loan Analysis
 
 ## Overview
@@ -22,15 +21,15 @@ Ever thought of how bank manages its finance and which type of data it stores. I
 
 ## Dashboard
 ### Created three Dashboard:
-1. Summary -> Analysis of good loan, bad loan and loan status.
+#### 1. Summary -> Analysis of good loan, bad loan and loan status.
 
 ![image](https://github.com/agr-saurabh/DataAnalyst/assets/125588378/a55a7402-331b-4434-bb36-2781311e7c2b)
 
-2. Overview -> Analysis by month, purpose, home ownership.
+#### 2. Overview -> Analysis by month, purpose, home ownership.
 
 ![image](https://github.com/agr-saurabh/DataAnalyst/assets/125588378/e2a3e12a-8585-4d6f-9332-43fc7ad615a3)
 
-3. Details -> Analysis of all details for some selected columns.
+#### 3. Details -> Analysis of all details for some selected columns.
 
 ![image](https://github.com/agr-saurabh/DataAnalyst/assets/125588378/c911bfd2-e808-4fec-af8a-064def250833)
 
